@@ -1,10 +1,10 @@
-# GoViolin
+# GoViola
 
-GoViolin is a web app written in Go that helps with violin practice.
+GoViola is a web app written in Go that helps with viola practice.
 
-Currently hosted on Heroku at https://go-violin.herokuapp.com/
+Forked from https://github.com/Rosalita/GoViolin
 
-GoViolin allows practice over both 1 and 2 octaves.
+GoViola allows practice over both 1 and 2 octaves.
 
 Contains:
 * Major Scales
